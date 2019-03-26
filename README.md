@@ -1,1 +1,1 @@
-# ENGG1340_GProject
+# ENGG1340 Group Project
