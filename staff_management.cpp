@@ -405,7 +405,7 @@ int main() {
   cout<<"Instruction is listed below: "<<endl;// print out instructions
   cout<<endl;
   cout<<"  1. create     --  Create an employee"<<endl;
-  cout<<"  2. search     --  Search for an employee with given data"<<endl;
+  cout<<"  2. search     --  Search for an employee with given data (id should be in the form uXXXXX)"<<endl;
   cout<<"  3. delete     --  Delete data of an employee"<<endl;
   cout<<"  4. edit       --  Edit information of an employee"<<endl;
   cout<<"  5. search_all --  Search for Employee based on given salary amount"<<endl;
